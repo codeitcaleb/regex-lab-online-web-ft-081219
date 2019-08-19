@@ -40,8 +40,6 @@ valid_numbers = ["2438894546", "(718)891-1313", "234 435 9978", "(800)4261134"]
 invalid_numbers = ["28894546", "(718)891-13135", "234 43 9978", "(800)IloveNY"]
 valid_number = "(800)IloveNY"
 
-valid_phone_number?(valid_number) 
-
 end
 
-
+valid_phone_number?(valid_number) 
